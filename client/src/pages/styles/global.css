@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+
+a{
+    text-decoration: none;
+}
+.card{
+ text-decoration: none;
+}
+
+
+
+ 
+.image-container {
+    width: 100%;
+    > div {
+      position: unset !important;
+    }
+  
+    .image {
+      object-fit: cover;
+      width: 100% !important;
+      height:25rem;
+      
+      position: relative !important;
+      /* height: unset !important; */
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mcqs-ol{
+  padding:0;
+}
+
+  .box{
+    border-radius: 8px;
+    border: 1px solid rgb(218, 220, 224);
+    break-inside: avoid;
+    margin-bottom: 12px;
+    overflow-wrap: break-word;
+    padding: 14px 33px;
+    padding-left:40px;
+    font-size:20px;
+    transition: background-color 200ms cubic-bezier(0, 0, 0.2, 1) 0s;
+    }
+    /*Accordion Style */
+    .accordion {
+    text-align: center;
+    color: white;
+    font-family: consolas;
+    width: 100%;
+    background-color: blue;
+    height: 29px;
+    line-height: 18px;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    margin-top:4px;
+    font-weight: 600;
+    border-radius: 30px;
+    }
+    .active-color,
+    .accordion:hover {
+    background-color: #130f40;
+    color: white;
+    outline:none;
+    }
+    .panel {
+    margin-top: 12px;
+    display: none;
+    background-color: blue;
+    width: 100%;
+    border-radius: 5px;
+    /* box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 6px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset; */
+    }
+    .panel > p {
+    margin-left: 13px;
+    margin-right: 10px;
+    text-align: justify;
+    font-family: verdana;
+    color: white;
+    font-weight:550px;
+    }
+    .heading {
+    text-align: center;
+    font-family: verdana;
+    width: 100%;
+    height: auto;
+    line-height: 27px;
+    border: none;
+    border-radius: 8px;
+    box-sizing: border-box;
+    padding: 2px;
+    font-size: 19px !important;
+    }
+    /*color Apply on Background and Font */
+    .blue   {color:white  !important;  background-color: blue;}
+    .green  {color:white  !important;  background-color: green;}
+    .red    {color:white  !important;  background-color: red;}
+    .white  {color:black  !important;  background-color: aliceblue;}
+    .orange {color:white  !important;  background-color: orange;}
+    /* MCQs CSS Code */
+    .mcqs-ol >.box> li,
+    .mcqs-ol >.box> li,
+    .box>li{
+    font-weight: bold;
+    }
+    .mcqs-ol >.box> li > p,
+    .mcqs-ol >.box> li > p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    }
+    .mcqs-ol >.box> li > a {
+    font-family: arial;
+    line-height: 26px;
+    text-decoration: none;
+    }
+    .mcqs-ol >.box> li {
+    font-family: arial;
+    line-height: 26px;
+    text-decoration: none;
+    }
+    /* Related Post */
+    .Related-Post {
+    width: 100%;
+    background-color: #d63031;
+    color: white;
+    line-height: 35px;
+    height: 35px;
+    border-radius: 30px 0px 30px 0px;
+    font-size: 20px;
+    font-family: verdana;
+    }
+    .Related-Post-head {
+    margin-left: 18px;
+    }
+    /* KeyWord style */
+    .keywords-head {
+    text-align: center;
+    color: white !important;
+    font-family: consolas;
+    width: 100%;
+    background-color: #2c3e50;
+    height: 35px;
+    line-height: 35px;
+    font-size: 20px;
+    }
+    .write-keyword {
+    font-family: "verdana", "consolas", "arial", "cursive";
+    }

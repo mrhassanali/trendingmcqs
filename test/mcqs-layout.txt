@@ -1,0 +1,52 @@
+ <ol type="1" class="mcqs-ol">
+        <div class="card mt-1">
+          <div class="card-body">
+            <h5 class="card-title ps-3"><li class="fs-4"></li></h5>
+            <p class="card-text">
+            a&#41; <br/>
+            b&#41;  <br/>
+            c&#41;  <br/>
+            d&#41; <br/>
+            </p>
+          </div>
+            <div class="card-footer text-body-secondary"><b>Answer : a&#41; relaxed</b></div>
+      </div>
+
+
+        <div class="card mt-1">
+          <div class="card-body">
+            <h5 class="card-title ps-3"><li class="fs-4">positive gesture are body sihnals that make you look ______.</li></h5>
+            <p class="card-text">
+            a&#41; relaxed<br/>
+            b&#41; hurtfu <br/>
+            c&#41; nervous <br/>
+            d&#41; arrogant<br/>
+            </p>
+          </div>
+            <div class="card-footer text-body-secondary"><b>Answer : a&#41; relaxed</b></div>
+      </div>
+        <div class="card mt-1">
+          <div class="card-body">
+            <h5 class="card-title ps-3"><li class="fs-4">positive gesture are body sihnals that make you look ______.</li></h5>
+            <p class="card-text">
+            a&#41; relaxed<br/>
+            b&#41; hurtfu <br/>
+            c&#41; nervous <br/>
+            d&#41; arrogant<br/>
+            </p>
+          </div>
+            <div class="card-footer text-body-secondary"><b>Answer : a&#41; relaxed</b></div>
+      </div>
+        <div class="card mt-1">
+          <div class="card-body">
+            <h5 class="card-title ps-3"><li class="fs-4">positive gesture are body sihnals that make you look ______.</li></h5>
+            <p class="card-text">
+            a&#41; relaxed<br/>
+            b&#41; hurtfu <br/>
+            c&#41; nervous <br/>
+            d&#41; arrogant<br/>
+            </p>
+          </div>
+            <div class="card-footer text-body-secondary"><b>Answer : a&#41; relaxed</b></div>
+      </div>
+     </ol>
